@@ -5,7 +5,7 @@ import time
 from lib.ripemd import RIPEMD160
 import binascii
 import json
-
+#hi code
 code_strings = {
     2: '01',
     10: '0123456789',
