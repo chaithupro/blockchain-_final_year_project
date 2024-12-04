@@ -1,4 +1,4 @@
-# coding:utf-8
+
 import hashlib
 import lib.common
 from model import Model
