@@ -1,4 +1,5 @@
 # coding:utf-8
+# coding:utf-8
 from block import Block
 import time
 from transaction import Vout, Transaction
