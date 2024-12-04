@@ -11,7 +11,7 @@
 # from node import *
 # from lib.common import cprint
 # import inspect
-
+# coding:utf-8
 # MODULES = ['account','tx','blockchain','miner','node']
 
 # def upper_first(string):
