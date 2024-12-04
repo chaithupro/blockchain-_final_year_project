@@ -1,4 +1,5 @@
 # coding:utf-8
+# coding:utf-8
 from xmlrpc.server import SimpleXMLRPCServer  
 from xmlrpc.client import ServerProxy
 from node import get_nodes, add_node
