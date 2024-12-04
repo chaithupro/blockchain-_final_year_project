@@ -3,7 +3,7 @@ import hashlib
 import time
 from model import Model
 from rpc import BroadCast
-
+# coding:utf-8
 class Block(Model):
 
     def __init__(self, index, timestamp, tx, previous_hash):
