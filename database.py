@@ -8,7 +8,7 @@ TXFILE = 'tx'
 UNTXFILE = 'untx'
 ACCOUNTFILE = 'account'
 NODEFILE = 'node'
-
+# coding:utf-8
 class BaseDB():
 
     filepath = ''
